@@ -1,6 +1,7 @@
 let IS_PROD = true;
 const server = IS_PROD ?
-    "https://apnacollegebackend.onrender.com" :
+
+    "https://window-call-backend.onrender.com":
 
     "http://localhost:8080"
 
